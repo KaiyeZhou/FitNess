@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="/">
+    <file>pic/虚拟健身UI0529-2.jpg</file>
+    <file>pic/虚拟健身UI0529-3.jpg</file>
+    <file>pic/AIFIT-diban.jpg</file>
+    <file>pic/AIFIT-diban2.jpg</file>
+    <file>pic/AIFIT-diban3.png</file>
+    <file>pic/AIFIT-Logo.png</file>
+    <file>pic/BZDZ-1.png</file>
+    <file>pic/BZDZ-di.png</file>
+    <file>pic/BZDZ.png</file>
+    <file>pic/BZMX-1.png</file>
+    <file>pic/BZMX.png</file>
+    <file>pic/DZSB-1.png</file>
+    <file>pic/DZSB-di.png</file>
+    <file>pic/DZSB-di2.png</file>
+    <file>pic/DZSB.png</file>
+    <file>pic/Gouxuan-1.png</file>
+    <file>pic/Gouxuan.png</file>
+    <file>pic/SPCJ-1.png</file>
+    <file>pic/SPCJ-di.png</file>
+    <file>pic/SPCJ.png</file>
+    <file>pic/Xiala.png</file>
+    <file>pic/Xuanzekuang.png</file>
+    <file>pic/YHSP-1.png</file>
+    <file>pic/YHSP-di.png</file>
+    <file>pic/YHSP.png</file>
+  </qresource>
+</RCC>
